@@ -9,7 +9,7 @@ int main() {
 
     printf("Prime numbers between 1 and %d are:\n", n);
     
-    // 1 is not a prime number, so we start from 2
+    
     for (int i = 2; i <= n; i++) {
         int isPrime = 1; // Assume i is prime
 
