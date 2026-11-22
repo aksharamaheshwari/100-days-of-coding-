@@ -1,4 +1,4 @@
-//ques1- Print the initials of a name//
+//ques97- Print the initials of a name//
 #include <stdio.h>
 
 int main()
@@ -25,7 +25,7 @@ int main()
 
 
 
-//ques2- Print initials, but surname in full//
+//ques98- Print initials, but surname in full//
 
 #include <stdio.h>
 #include <string.h>
