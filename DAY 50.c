@@ -1,4 +1,4 @@
-//ques1- Change date format from dd/04/yyyy to dd-Apr-yyyy//
+//ques99- Change date format from dd/04/yyyy to dd-Apr-yyyy//
 
 #include <stdio.h>
 
@@ -16,7 +16,7 @@ int main()
 
 
 
-//ques2- Print all sub-strings of a string//
+//ques100- Print all sub-strings of a string//
 
 #include <stdio.h>
 #include <string.h>
